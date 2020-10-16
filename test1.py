@@ -5,7 +5,7 @@
 # \" \n \t \' (print this as an output)
 
 print("this is \\\\ double backslash")
-print("These are /\\/\\/\\/\\ mountain")
+print("These are /\\/\\/\\/\\  mountain")
 print("he is \tawesome")
 print("\\\" \\n \\t \\\'")  #print(r"\" \n \t \'") also print the same 
 
